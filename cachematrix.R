@@ -20,7 +20,7 @@ get <- function() x
         }
 
 ## Write a short comment describing this function
-
+##solves for the inverse of the special "Cachematrix" 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
